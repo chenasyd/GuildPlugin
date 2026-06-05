@@ -9,7 +9,7 @@ All available modules and their source code: [Module Examples](https://github.co
 ## Developer Guide
 
 Contribute your own modules to Guild Plugin:
-- Refer to the [SDK Developer Guide](https://github.com/chenasyd/-GuildPlugin/blob/main/SDK-Developer-Guide.md)
+- Refer to the [SDK Developer Guide](https://github.com/chenasyd/-GuildPlugin/blob/main/Wiki/SDK%20Developer-Guide.md)
 - Modules must follow Guild Plugin's module specification
 
 ## Plugin Repository
